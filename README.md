@@ -1,1 +1,2 @@
-# Classic-ML-Algorithms-from-Scratch
+# GroupC
+Computer Vision
