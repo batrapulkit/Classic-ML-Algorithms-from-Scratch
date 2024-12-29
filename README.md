@@ -1,6 +1,6 @@
 # Machine Learning Algorithms: SVM, KNN, Softmax, and Two-Layer Neural Network
 
-This repository contains Python implementations of classic machine learning algorithms for educational and practice purposes. The goal is to showcase basic models and their implementation from scratch, helping to better understand their mechanics and use cases.
+This repository contains Python implementations of classic machine-learning algorithms for educational and practice purposes. The goal is to showcase basic models and their implementation from scratch, helping to understand their mechanics and use cases better.
 
 ## Algorithms Implemented
 
@@ -11,10 +11,10 @@ This repository contains Python implementations of classic machine learning algo
    A simple, instance-based learning algorithm that classifies data points based on the majority class of their nearest neighbors.
 
 3. **Softmax Regression**  
-   A classification algorithm that generalizes logistic regression to multi-class problems, often used as the output layer in neural networks.
+   A classification algorithm that generalizes logistic regression to multi-class problems, is often used as the output layer in neural networks.
 
 4. **Two-Layer Neural Network**  
-   A basic implementation of a neural network with one hidden layer, using a sigmoid activation function for both the hidden and output layers.
+   A basic implementation of a neural network with one hidden layer, using a sigmoid activation function for both the secret and output layers.
 
 ## Requirements
 
@@ -25,8 +25,9 @@ This repository contains Python implementations of classic machine learning algo
 
 You can install the necessary dependencies using `pip`:
 
-```bash
-pip install -r requirements.txt
+pip install -r requirements.txt:
+
 
 ## Contributing
 Feel free to fork this repository, make changes, and submit a pull request. Contributions, suggestions, and improvements are welcome!
+
